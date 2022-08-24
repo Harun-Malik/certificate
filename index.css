@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+}
+.box{
+    border: 2px solid black;
+    width: 80%;
+    margin: 5px auto;
+    color: rgb(10, 109, 10);
+    background-color: #f1ede8;
+}
+.head{
+    width: 100%;
+    text-align: center;
+}
+.box h2{
+    text-decoration: underline  ;
+}
+.section{
+    font-style: italic;
+    line-height: 30px;
+    word-spacing: 5px;
+    padding: 20px;
+    word-spacing: 15px;
+    letter-spacing: 2px;
+    margin-left: 20px;
+}
+span{
+   color: rgba(37, 33, 33, 0.623);
+   font-style: normal;
+}
+.logoimg{
+    width: 170px;
+    height: 170px;
+    position: absolute;
+    top:2%;
+    left: 139px;
+}
+.date{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.date h3{
+    margin-top: 40px;
+}
+.date img{
+    height: 100px;
+    margin-right: 50px;
+   
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+}
+.ragistrar{
+    font-style: normal;
+    margin-right: 120px;
+}
+span{
+    display: inline-block;
+    margin-top: 10px;
+    position: relative;
+    top: 6px;
+}
+.dot{
+    color: #f1ede8;
+}
+.degree{
+    margin-left: 150px;
+}
+.article{
+    margin-top: 30px;
+}
